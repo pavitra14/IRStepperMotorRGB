@@ -1,5 +1,7 @@
 # IRStepperMotorRGB
 > This readme is AI Generated
+
+
 **IRStepperMotorRGB** is an Arduino project designed for the **Arduino Uno R4 WiFi** that provides comprehensive control over a stepper motor using an IR remote. It features real-time visual feedback using both an RGB LED and the Uno R4's built-in LED Matrix.
 
 ## 🚀 Features
